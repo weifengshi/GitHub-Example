@@ -4,21 +4,21 @@ using namespace std;
 
 int main()
 {
-    // Variable declarations
-    string name, color;
+	// Variable declarations
+	string name, color;
 
-    // Output and input
-    cout << "Hello, what is your name? ";
-    cin >> name;
+	// Output and input
+	cout << "Hello, what is your name? ";
+	cin >> name;
 
-    cout << "What is your favorite color? ";
-    cin >> color;
+	cout << "What is your favorite color? ";
+	cin >> color;
 
-    cout << endl;
-    cout << "So can I call you " << color << " " << name << "?" << endl;
+	cout << endl;
+	cout << "So can I call you " << color << " " << name << "?" << endl;
 
 	// test 1 2 3
 
-    return 0;
-}fdjlkdfkljfdk
-bejfbefb
+	return 0;
+	rgrgergr
+}
